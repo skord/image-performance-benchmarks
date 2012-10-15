@@ -1,0 +1,11 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    image_sorcery (1.0.7)
+
+PLATFORMS
+  java
+  ruby
+
+DEPENDENCIES
+  image_sorcery
